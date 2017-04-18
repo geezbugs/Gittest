@@ -12,4 +12,13 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         Log.i("fsdfsd", "fdsfs");
     }
+
+    private void initViews() {
+
+    }
+
+    private void initData() {
+
+    }
+
 }
